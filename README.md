@@ -15,4 +15,7 @@ mne, scipy, matplotlib, numpy, sklearn, pandas required.<br>
 `classify` returns (input_data, labeled) <br>
 
 # Install
-[Edf dataset](https://data.mendeley.com/datasets/8c26dn6c7w/1) should located at ./edfs
+[Edf dataset](https://data.mendeley.com/datasets/8c26dn6c7w/1) should located at ./edfs.
+
+# Contributors
+Hyungi Cho (Catholic Univ.)
