@@ -18,4 +18,4 @@ mne, scipy, matplotlib, numpy, sklearn, pandas required.<br>
 [Edf dataset](https://data.mendeley.com/datasets/8c26dn6c7w/1) should located at ./edfs.
 
 # Contributors
-Hyungi Cho (Catholic Univ.)
+Hyungi Cho (Catholic Univ., [@jasonhk24](https://github.com/jasonhk24))
